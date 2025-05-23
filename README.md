@@ -29,11 +29,18 @@ I'm a Platform Engineer with a passion for DevOps, cloud technologies, and autom
 
 ## 📂 Pinned Repositories
 
-### [Project 1: medicine_recommendation_system](https://github.com/iamtahmad1/medicine_recommendation_system)
-- Tried to make medicine recommendation system for homeopathic medicines for fun.
+### [Project 1: Quick Kind K8s Clusters](https://github.com/iamtahmad1/kind-k8s-clusters)
+- Quickly spin up dev kind K8s cluster with all bells and rings.
+- Ingress, ArgoCD, cert manager, Metal LB, etc.
 
-### [Project 2: GKE Kubernetes Deployment Tool](https://github.com/iamtahmad1/gke-kubernetes-deployment)
-- GKE cluster creation with terraform
+### [Project 2: Self Hosted API Gateway](https://github.com/iamtahmad1/self-hosted-api-gatewa)
+- Tried to build API gateway which can handle 100K requests per minutes.
+- While working on it, expored and implemented authentication, rate limiting, security and othe functionalities of API gateway.
+
+### [Project 3: Spatial Audio Backend](https://github.com/iamtahmad1/spatial-audio-backend)
+- Just a fun project wanted to work on while learning backend development.
+- A Chatroom which allows spatial audio for the chat members.
+- Still in progress......
 
 ## 📫 Connect with Me
 
