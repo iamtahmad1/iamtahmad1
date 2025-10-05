@@ -63,9 +63,7 @@ currently_learning:
   - LLM Deployment & Fine-tuning
   - AI Model Serving at Scale
   - Advanced Kubernetes Patterns
-
-looking_for:
-  - Interesting technical challenges
+  
 ```
 
 ---
@@ -115,7 +113,6 @@ looking_for:
 I'm always open to discussing:
 - Platform engineering challenges
 - MLOps and AI infrastructure
-- Open source collaboration
 - Knowledge sharing
 
 **Find me here:**
@@ -140,27 +137,6 @@ I'm always open to discussing:
 - ☁️ AWS Certified Solutions Architect
 - ☁️ Certified Kubernetes Administrator (CKA)
 
----
-
-## 📈 Contribution Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamtahmad1&theme=tokyo-night&hide_border=true)
-
----
-
-<div align="center">
-
-### 💼 Open to Contribute
-
-I’m open to contributing to any Platform Engineering–related challenges, especially around infrastructure, automation, and reliability.
-
-**Let's build something great together!** 🚀
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=iamtahmad1&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
 
 ---
 
